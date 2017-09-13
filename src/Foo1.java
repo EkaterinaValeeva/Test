@@ -82,4 +82,40 @@ public class Foo1 {
     }
 
     public static void main(String[] args) {}
+
+    /*
+    foo
+    foo
+    foo
+    foo
+    foo
+    foo
+    foo
+    foo
+    foo
+    foo
+    foo
+    foo
+    foo
+    foo
+    foo
+    foo
+    foo
+    foo
+    foo
+    foo
+    foo
+    foo
+    foo
+    foo
+    foo
+    foo
+    foo
+    foo
+    foo
+    foo
+    foo
+    foo
+    foo
+     */
 }
