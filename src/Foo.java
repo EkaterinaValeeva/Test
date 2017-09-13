@@ -27,9 +27,8 @@ public class Foo {
     public static void main(String[] args) {
         long t = 1234566;
         Foo1 f = new Foo1();
-
-        f.printData("hello");
         f.printData(5);
+
 
 
         //getData(symbol);
@@ -39,18 +38,5 @@ public class Foo {
      *
      * @param data specifies data to parse
      */
-    class SQLite implements Storage {
-        /**
-         * DBMS-related prefix for connection string.
-         */
-        private static final String dbmsPrefix = "jdbc:sqlite:";
-    }
 
-    public static String getData(String data)
-    {
-        return data;
-        Animals creature = new Animals();
-
-
-    }
 }
