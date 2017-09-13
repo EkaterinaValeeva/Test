@@ -5,7 +5,75 @@ public class Foo1 {
      * @param i an integer to be printed
      * */
     public void printData(int i) {
+        /*
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+        sadfasdfasdfdas
+
+         */
+
         System.out.println(i);
+        System.out.println(i*3);
     }
 
     public void printData(char a) {
