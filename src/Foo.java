@@ -28,15 +28,7 @@ public class Foo {
         long t = 1234566;
         Foo1 f = new Foo1();
         f.printData(5);
-
-
-
         //getData(symbol);
     }
-
-    /**method returning data
-     *
-     * @param data specifies data to parse
-     */
 
 }
