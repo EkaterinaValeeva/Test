@@ -11,45 +11,8 @@ public class Foo1 {
     }
 
     public void printData(char a) {
-
-
+        System.out.println(a);
     }
 
     public static void main(String[] args) {}
-
-    /*
-    foo
-    foo
-    foo
-    foo
-    foo
-    foo
-    foo
-    foo
-    foo
-    foo
-    foo
-    foo
-    foo
-    foo
-    foo
-    foo
-    foo
-    foo
-    foo
-    foo
-    foo
-    foo
-    foo
-    foo
-    foo
-    foo
-    foo
-    foo
-    foo
-    foo
-    foo
-    foo
-    foo
-     */
 }
