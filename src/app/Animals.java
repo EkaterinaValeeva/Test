@@ -2,6 +2,10 @@ package app;
 
 public class Animals {
 
+    int legs;
+    int tail;
+    int speed;
+
     public void MakeSound(String sound) {}
 }
 
